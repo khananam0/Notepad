@@ -1,0 +1,2 @@
+i have made my notepad with the help of tkinter module.notepad with the help of tkinter
+notepad with the of tkinter.
